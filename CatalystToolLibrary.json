@@ -1,0 +1,1559 @@
+{
+    "data": [
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 2.5,
+                "LCF": 0.8,
+                "NOF": 2,
+                "OAL": 2.5,
+                "SFDM": 0.25,
+                "shoulder-length": 1.25
+            },
+            "guid": "d36aac8e-e0f6-4cce-a713-6c44a9a21687",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.003937007874016,
+                        "guid": "271963f0-5380-4e73-9492-1e15aeefaf7f",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "HTC Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 3,
+                "LCF": 1.2,
+                "NOF": 2,
+                "OAL": 3,
+                "SFDM": 0.25,
+                "shoulder-length": 1.5
+            },
+            "guid": "d22fb57c-2783-49cc-b678-e6c9ddafa612",
+            "last_modified": 1659390848120,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2,
+                "length-offset": 2,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 2,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.003937007874016,
+                        "guid": "cd44be29-c0bb-4650-916b-768ab914d401",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "HTC Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 2.5,
+                "LCF": 0.8,
+                "NOF": 2,
+                "OAL": 2.5,
+                "SFDM": 0.25,
+                "shoulder-length": 1.25
+            },
+            "guid": "0dfd240b-9c6c-4862-a170-82ab450643bd",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 3,
+                "length-offset": 3,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 3,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.003937007874016,
+                        "guid": "7e1dc72b-c194-4dcc-a504-6f231156fa88",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "HTC Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 2.5,
+                "LCF": 0.8,
+                "NOF": 2,
+                "OAL": 2.5,
+                "SFDM": 0.25,
+                "shoulder-length": 1.25
+            },
+            "guid": "b232ee64-c9e3-485f-ad19-54fb12131106",
+            "last_modified": 1659391356186,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 4,
+                "length-offset": 4,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 4,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.003937007874016,
+                        "guid": "48491b16-697a-410d-9033-8fea31c671fa",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "HTC Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Blue",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.2,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 9,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 15.8
+            },
+            "guid": "41ee0f47-c788-4b28-a4b7-0317347da9e6",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 5,
+                "length-offset": 5,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 5,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "e8af4b25-6b72-4b98-851a-2216081842c2",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 18.84955592153876,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - brown",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.1,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 10,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 15.750000000000009
+            },
+            "guid": "90560d93-26ba-47cd-9de3-7172688ca297",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 6,
+                "length-offset": 6,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 6,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "14a25b93-413d-4f51-b449-95d9f5efea12",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 17.27875959474386,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Orange",
+            "geometry": {
+                "CSP": false,
+                "DC": 1,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 9.8,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 15.7
+            },
+            "guid": "cc33bc02-c692-4a62-a465-e9b906f28247",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 7,
+                "length-offset": 7,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 7,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "faae9d91-cff1-484b-80de-084b8135175f",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 15.707963267948967,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - White",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.9,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 9.75,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16.5
+            },
+            "guid": "b7d6d9c9-eb7e-4b46-a622-6c1c341ed7be",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 8,
+                "length-offset": 8,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 8,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "4b1a6928-5f44-4fbd-b31c-9e4b349e2509",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 14.137166941154067,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Yellow",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.8,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 9.75,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "0130ea89-d97d-4c2c-8e90-c1cd19184957",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 9,
+                "length-offset": 9,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 9,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "d0122e62-1b34-4aa2-928c-3c520883e007",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 12.566370614359172,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Dull Yellow",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.65,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 8.5,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "8e990664-5afb-4af4-b98a-28859d101108",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 10,
+                "length-offset": 10,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 10,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "25530d2e-de74-4050-83b8-29d7d67d050a",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10.210176124166829,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Red",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.6,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 7,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "e1890e4b-d45f-4d87-89e6-c772638c470b",
+            "last_modified": 1659557825340,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 11,
+                "length-offset": 11,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 11,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "223f503d-2969-41cc-9bd1-192e79fbb3f4",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 9.42477796076938,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Pastel Blue",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.5,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 7,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "6d0b3eae-dc6d-4693-81af-75bbde81a3ca",
+            "last_modified": 1659558024572,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 12,
+                "length-offset": 12,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 12,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "3c649fa3-1a96-4cba-a944-9fd186b4d75b",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 7.853981633974484,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "description": "Box 2 - Purple",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.4,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 6.15,
+                "NOF": 3,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "a75c00f0-9e08-4274-909d-2e51d96ede36",
+            "last_modified": 1659558135317,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 13,
+                "length-offset": 13,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 13,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.066666666666667,
+                        "guid": "bc198e64-bbaf-4692-b589-14be2d6dc7ba",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 6.283185307179586,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 2 - Pastel Yellow",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.3,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 5,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "5e7fb8d3-0da7-413e-970c-3ee8ff94e3f7",
+            "last_modified": 1659558233978,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 14,
+                "length-offset": 14,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 14,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "71a5389a-07f0-4edb-b821-28c2f1d5326c",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 4.712388980384691,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 1 - Pink",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.9,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 9.5,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "5426b475-2353-4652-b42f-372c512330ae",
+            "last_modified": 1659558457493,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 15,
+                "length-offset": 15,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 15,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "0587ef66-4d72-4c69-9d17-78c4cdc6b532",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 14.137166941154067,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 1 - Yellow",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.65,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 8.5,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 16
+            },
+            "guid": "81535744-66f9-4ea9-990d-486557c9e978",
+            "last_modified": 1659558564691,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 16,
+                "length-offset": 16,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 16,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "5c8c527a-d9d4-4ec0-8a0b-c4fe9a66e0dd",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 10.210176124166829,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "Box 1 - Green",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.5,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 7,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.17,
+                "shoulder-length": 15.750000000000002
+            },
+            "guid": "724fd026-9510-46bc-a78d-a980fa374f98",
+            "last_modified": 1659558836143,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 17,
+                "length-offset": 17,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 17,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "971d5079-fb3f-4337-b9d9-fccd286bf296",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 7.853981633974484,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.5,
+                "HAND": true,
+                "LB": 76.75,
+                "LCF": 27.50000000000001,
+                "NOF": 4,
+                "OAL": 76.75,
+                "RE": 0.75,
+                "SFDM": 6.350000000000001,
+                "TA": 5,
+                "shoulder-length": 29.50000000000001
+            },
+            "guid": "7de6c1ed-f33e-4064-a6d8-4af3b2392a60",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 18,
+                "length-offset": 18,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 18,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.05,
+                        "guid": "35f388b4-1483-4ec6-be78-442afe17675e",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 23.56194490192345,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "tapered-type": "tapered_ball",
+            "type": "tapered mill",
+            "unit": "millimeters",
+            "vendor": "Amana Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 4.5,
+                "HAND": true,
+                "LB": 63.7,
+                "LCF": 19.5,
+                "NOF": 2,
+                "OAL": 63.7,
+                "RE": 2.25,
+                "SFDM": 6.350000000000001,
+                "TA": 4,
+                "shoulder-length": 22
+            },
+            "guid": "bee650b9-91c1-41a7-a7fd-222247912880",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 19,
+                "length-offset": 19,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 19,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "58f5fe2a-78e4-4e01-92c6-b120fada7935",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 70.68583470577035,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "tapered-type": "tapered_ball",
+            "type": "tapered mill",
+            "unit": "millimeters",
+            "vendor": "Amana Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 6.250000000000001,
+                "HAND": true,
+                "LB": 63.7,
+                "LCF": 13,
+                "NOF": 2,
+                "OAL": 63.7,
+                "SFDM": 6.350000000000001,
+                "shoulder-length": 20.5
+            },
+            "guid": "06ccafe9-4959-463a-8f9d-17341e0968aa",
+            "last_modified": 1659560885255,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 20,
+                "length-offset": 20,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 20,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "c8514097-a309-4b6f-af2c-ca0de7f84b8b",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 98.17477042468104,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": "Amana Tool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 12.750000000000002,
+                "HAND": true,
+                "LB": 40.75,
+                "LCF": 6.250000000000001,
+                "NOF": 2,
+                "OAL": 40.75,
+                "SFDM": 6.33,
+                "TA": 45,
+                "shoulder-length": 16,
+                "tip-diameter": 0
+            },
+            "guid": "d1610c89-a22f-4531-b332-5f3ab6c96037",
+            "last_modified": 1659561296775,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 21,
+                "length-offset": 21,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 21,
+                "turret": 0
+            },
+            "product-id": "Amana Tool",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.066666666666667,
+                        "f_z": 0.1,
+                        "guid": "2d117066-6451-4608-b501-48564a1f43f2",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 200.27653166634929,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1000,
+                        "v_f_plunge": 333.33333333333326,
+                        "v_f_ramp": 333.33333333333326
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "generic",
+            "description": "#302 - 60 Deg V-bit",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.4375,
+                "HAND": true,
+                "LB": 2,
+                "LCF": 0.25,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 2,
+                "RE": 0,
+                "SFDM": 0.25,
+                "SIG": 60,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-diameter": 0.4375,
+                "shoulder-length": 0.7,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "3abe6e63-fafb-4bf5-b7e4-9a5d373b21e0",
+            "last_modified": 1659561413072,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "301",
+            "reference_guid": "ec937a00-dbc9-456e-b104-2fa086999df6",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00262468,
+                        "f_z": 0.00393701,
+                        "guid": "04e42634-4d0e-56ff-f2be-21bc60c156f7",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "v_c": 572.686160810639,
+                        "v_f": 39.3701,
+                        "v_f_leadIn": 39.3701,
+                        "v_f_leadOut": 39.3701,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 13.1234,
+                        "v_f_retract": 13.1234
+                    }
+                ]
+            },
+            "type": "counter sink",
+            "unit": "inches",
+            "vendor": "Carbide 3D"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "#101 - 1/8\" Ballnose",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.5,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.5,
+                "RE": 0.0625,
+                "SFDM": 0.125,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-length": 0.5,
+                "thread-profile-angle": 0,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "71ad9929-2185-437a-a2fb-3813a73b17d4",
+            "last_modified": 1659561468567,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "101",
+            "product-link": "",
+            "reference_guid": "98bdb80c-a7e4-4bd2-a14a-fefcf57930d9",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.0009,
+                        "f_z": 0.001,
+                        "guid": "b0ce4c09-4e14-7824-4add-3bb65953bcb4",
+                        "n": 10000,
+                        "n_ramp": 10000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.249234748937,
+                        "v_f": 20,
+                        "v_f_leadIn": 15,
+                        "v_f_leadOut": 17,
+                        "v_f_plunge": 9,
+                        "v_f_ramp": 14,
+                        "v_f_retract": 9
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Carbide3D"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "#102 - 1/8\" Square",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.5,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.5,
+                "RE": 0,
+                "SFDM": 0.125,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-diameter": 0.125,
+                "shoulder-length": 0.5,
+                "tip-diameter": 0.125,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "263843d3-47ce-4e30-b179-d3f9fc5f7c00",
+            "last_modified": 1659561522589,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "102",
+            "reference_guid": "9d10e163-1314-4f35-b08c-a6a362916202",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00262466,
+                        "f_z": 0.00393701,
+                        "guid": "843db4d1-4ef6-faaf-c9ac-d78513ebd64f",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 163.624617374468,
+                        "v_f": 39.3701,
+                        "v_f_leadIn": 39.3701,
+                        "v_f_leadOut": 39.3701,
+                        "v_f_plunge": 13.1233,
+                        "v_f_ramp": 13.1233,
+                        "v_f_retract": 13.1233
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Carbide3D"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "#111 - 1/16\" Ballnose",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.0625,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.25,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.5,
+                "RE": 0.03125,
+                "SFDM": 0.125,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-diameter": 0.0625,
+                "shoulder-length": 0.3,
+                "tip-diameter": 0,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "3b530cba-1190-4c6e-a9ea-80a57131c91d",
+            "last_modified": 1659561580156,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "111",
+            "reference_guid": "79839a2b-1538-48c5-9a59-b571dcfce404",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00262468,
+                        "f_z": 0.00393701,
+                        "guid": "91ceb28d-4914-1903-765e-a59efd7e27a9",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 81.81230868723422,
+                        "v_f": 39.3701,
+                        "v_f_leadIn": 39.3701,
+                        "v_f_leadOut": 39.3701,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 13.1234,
+                        "v_f_retract": 13.1234
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "inches",
+            "vendor": "Carbide3D"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "#102 - 1/8\" Square",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.5,
+                "NOF": 2,
+                "NT": 0,
+                "OAL": 1.5,
+                "RE": 0,
+                "SFDM": 0.125,
+                "SIG": 0,
+                "TA": 0,
+                "TP": 0,
+                "shoulder-diameter": 0.125,
+                "shoulder-length": 0.5,
+                "tip-diameter": 0.125,
+                "tip-length": 0,
+                "tip-offset": 0
+            },
+            "guid": "b711b2dc-77f5-4f8f-b3f5-cfafa7d5085e",
+            "last_modified": 1659562033362,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "102",
+            "reference_guid": "9d10e163-1314-4f35-b08c-a6a362916202",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "f_n": 0.00262466,
+                        "f_z": 0.00393701,
+                        "guid": "843db4d1-4ef6-faaf-c9ac-d78513ebd64f",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default Preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 163.624617374468,
+                        "v_f": 39.3701,
+                        "v_f_leadIn": 39.3701,
+                        "v_f_leadOut": 39.3701,
+                        "v_f_plunge": 13.1233,
+                        "v_f_ramp": 13.1233,
+                        "v_f_retract": 13.1233
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Carbide3D"
+        },
+        {
+            "BMC": "carbide",
+            "description": "#501",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.15,
+                "NOF": 4,
+                "OAL": 1.5,
+                "SFDM": 0.125,
+                "TA": 30.000000000000007,
+                "shoulder-length": 0.3,
+                "tip-diameter": 0
+            },
+            "guid": "c11e541e-8b1d-46bf-90d0-55bb5108bd80",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 22,
+                "length-offset": 22,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 22,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.001968503937008,
+                        "guid": "f71a19c3-b0ae-4ff5-b3bb-2d1f465eaa4e",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 163.62461737446836,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": "Nomad Tools"
+        },
+        {
+            "BMC": "carbide",
+            "description": "#502",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.2,
+                "NOF": 4,
+                "OAL": 1.5,
+                "SFDM": 0.125,
+                "TA": 20,
+                "shoulder-length": 0.35,
+                "tip-diameter": 0
+            },
+            "guid": "fce66d8e-0dab-4efe-95b5-cd8cce567f61",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 23,
+                "length-offset": 23,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 23,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.001968503937008,
+                        "guid": "1dba5151-bf67-447c-bb53-6508e73ad100",
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 163.62461737446836,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": "Nomad Tools"
+        }
+    ],
+    "version": 17
+}
